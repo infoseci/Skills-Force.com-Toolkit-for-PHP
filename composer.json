@@ -1,5 +1,5 @@
 {
-    "name": "davispeixoto/force-dot-com-toolkit-for-php",
+    "name": "infoseci/force-dot-com-toolkit-for-php",
     "description": "A wrapper for the Force.com Web Services SOAP API",
     "keywords": ["salesforce", "crm", "force.com toolkit"],
     "license": "BSD-3-Clause",
